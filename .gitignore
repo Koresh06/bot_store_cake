@@ -1,0 +1,6 @@
+.env
+config.py
+images
+.venv
+__pycache__
+database.sqlite3
